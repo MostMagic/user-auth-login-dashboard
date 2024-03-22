@@ -1,0 +1,15 @@
+{
+    "name": "vitin/backend",
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "vouto",
+            "email": "vitinhodaniel887@gmail.com"
+        }
+    ],
+    "require": {}
+}
